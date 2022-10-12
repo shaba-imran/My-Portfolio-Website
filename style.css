@@ -1,10 +1,4 @@
-body { 
-  background: url(./assets/images/image.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+.content-wrapper, footer { background-color: #A4D2A4; }
 
 .h5 a {
   text-decoration: none;
